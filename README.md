@@ -1,2 +1,1 @@
-# dailyglancer
 # react-dailyglancer
