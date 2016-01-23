@@ -11,7 +11,8 @@ var {
 
 var styles = StyleSheet.create({
     container: {
-        flex: 1
+        flex: 1,
+        backgroundColor: '#FDF058'
     }
 });
 
@@ -21,7 +22,7 @@ class Explore extends Component {
   	    	<NavigatorIOS
                 style={styles.container}
                 initialRoute={{
-            title: 'My recent Glances',
+            title: 'My Recent Glances',
             component: GlanceList
             }}/> 
         );

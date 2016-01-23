@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "356EEB32A5EBAAA2F7C41D0D5502C9B5F8F98FFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "50CBF87E3CCE2DEAC7E36A242539F2A5337BD041" : 0,
+    "356EEB32A5EBAAA2F7C41D0D5502C9B5F8F98FFC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "055C0869-7874-4AA8-BE1A-CFC11E382925",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "50CBF87E3CCE2DEAC7E36A242539F2A5337BD041" : "..\/react-native-splashscreen",
+    "356EEB32A5EBAAA2F7C41D0D5502C9B5F8F98FFC" : "dailyglancer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "dailyglancer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/dailyglancer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/3ottXBaxPqHBtgK6MmGq:@git.rnplay.org\/UgPb6w.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "356EEB32A5EBAAA2F7C41D0D5502C9B5F8F98FFC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/remobile\/react-native-splashscreen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50CBF87E3CCE2DEAC7E36A242539F2A5337BD041"
+    }
+  ]
+}
